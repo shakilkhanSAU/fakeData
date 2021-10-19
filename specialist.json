@@ -1,21 +1,25 @@
 [
     {
         "name": "jabir Karim",
+        "key": "doctor1",
         "image": "https://i.ibb.co/6Xn9sQk/doctor3.jpg",
         "about": "We have over 80 physicians and healthcare professionals, and over 400 staff members who are truly committed to meeting the needs of our patients."
     },
     {
         "name": "Ferdusi Rahman",
+        "key": "doctor2",
         "image": "https://i.ibb.co/ZBJxkfw/doctor2.jpg",
         "about": "We have over 80 physicians and healthcare professionals, and over 400 staff members who are truly committed to meeting the needs of our patients."
     },
     {
         "name": "Charles Salmon",
+        "key": "doctor3",
         "image": "https://i.ibb.co/hWr3fJF/doctor1.jpg",
         "about": "We have over 80 physicians and healthcare professionals, and over 400 staff members who are truly committed to meeting the needs of our patients."
     },
     {
         "name": "Jabir Hamid Zara",
+        "key": "doctor4",
         "image": "https://i.ibb.co/WnGKLV5/doctor4.jpg",
         "about": "We have over 80 physicians and healthcare professionals, and over 400 staff members who are truly committed to meeting the needs of our patients."
     }
